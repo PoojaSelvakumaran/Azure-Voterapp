@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'poojavoterapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F34F8E67F5AB4BFC94C06C7BEC877C5A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0B9E870FC977465D92467A23C9784DF0 }}
           package: .
